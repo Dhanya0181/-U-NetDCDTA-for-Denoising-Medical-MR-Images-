@@ -1,7 +1,7 @@
 # -U-NetDCDTA-for-Denoising-Medical-MR-Images-
 
 The UNet-DCTD-A (Deep Convolutional Transfer Learning Based Denoising Model with U-Net Architecture and Attention Mechanism) is a 
-state-of-the-art denoising model designed specifically for brain MR images. It leverages the power oftransfer learning and attention 
+state-of-the-art denoising model designed specifically for brain MR images. It leverages the power oftransfer learning and attention 
 mechanism to achieve superior denoising performance in the medical imaging domain.Transfer learning allows the model to benefit from 
 pretrained models that have been extensively trained on large-scale tasks with abundant labeled data. By transferring the learned 
 knowledge to the denoising task, the model can effectively extract relevant features and capture complex patterns from the input
